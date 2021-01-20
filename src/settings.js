@@ -3,7 +3,8 @@ module.exports = {
   // 获取令牌时，请求头信息(Basic Base64.encode(client_id:client_secret))
   authorizationValue: 'Basic ZmViczoxMjM0NTY=',
   // 社交登录后台地址
-  socialLoginUrl: 'http://localhost:8301/auth/social/login',
+  // socialLoginUrl: 'http://localhost:8301/auth/social/login',
+  socialLoginUrl: 'http://yxx.free.vipnps.vip:8301/auth/social/login',
   // 请替换为您的实际地址
   pages: {
     // FEBS-Admin 控制台地址
